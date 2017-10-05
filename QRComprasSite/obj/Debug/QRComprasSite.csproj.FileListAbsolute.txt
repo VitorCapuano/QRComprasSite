@@ -1,0 +1,2 @@
+/home/vitor/projects/QRComprasSite/QRComprasSite/obj/Debug/QRComprasSite.csprojResolveAssemblyReference.cache
+/home/vitor/projects/QRComprasSite/QRComprasSite/obj/Debug/QRComprasSite.csproj.CoreCompileInputs.cache
