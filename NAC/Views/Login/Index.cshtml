@@ -1,0 +1,42 @@
+@using System.Security
+@model NAC.Models.UserModel
+
+<div class = "container">
+    <div class="wrapper">
+        <h1>Usuário</h1>
+        <div class="@TempData["classe"]">
+            @TempData["Status"]
+        </div>
+            <hr class="colorgraph"><br>
+            
+        @if (string.IsNullOrEmpty((string)Session["Usuario"]))
+        {
+            using (Html.BeginForm())
+            {
+                <div class="col-md-12">
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.username)
+                        @Html.TextBoxFor(m => m.username, new {@class = "form-control"})
+                        @Html.ValidationMessageFor(m => m.username)
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.senha)
+                        @Html.PasswordFor(m => m.senha, new {@class = "form-control"})
+                        @Html.ValidationMessageFor(m => m.senha)
+                    </div>
+                </div>
+
+                <input type="submit" name="Salvar Pacote" class="btn btn-primary" value="Login"/>
+            }
+        }
+        else
+        {
+            <h1 class="bg-info">Você está logado como: @Session["Usuario"]</h1>
+        }
+         
+            
+
+             </div>
+</div>

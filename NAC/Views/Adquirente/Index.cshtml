@@ -1,0 +1,137 @@
+@using System.Collections
+@model IEnumerable<NAC.Models.AdquirenteModel>
+
+
+<div class="row">    
+    <div class="col-md-12">
+        <div style="margin-top: 40px;">
+            <div class="row">
+                <div class="col-md-12">
+                        <table class="table table-bordered">
+                            <h1>Investimentos do @Session["Usuario"]</h1>
+                            @{
+                                var SearchParams = new List<String>()
+                                {
+                                    "Menor", "Menor ou Igual", "Maior", "Maior ou Igual", "Igual"
+                                };
+                                var NameParams = new List<String>()
+                                {
+                                    "Pacote",
+                                    "Quantidade",
+                                    "Total"
+                                };
+                            }
+
+                            <div class="row">
+
+                                @using (Html.BeginForm("Index", "Adquirente", FormMethod.Get, new {@class = "form-inline"}))
+                                {
+                                    <div class="form-group mx-sm-3">
+                                        <div id="p1" class="p">
+                                            @Html.DropDownList("NomedoCampo", new SelectList(NameParams), new {@class = "form-control"})
+
+                                        </div>
+                                        <div id="p2" class="p">
+                                            @Html.DropDownList("Filtrador", new SelectList(SearchParams), new {@class = "form-control"})
+
+                                        </div>
+                                        <div id="p3" class="p">
+                                            @Html.TextBox("Pesquisa")
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary">Buscar</button>
+                                }
+
+                            </div>
+
+
+                            <div class="@TempData["Classe"]">
+                                @TempData["Status"]
+                            </div>
+                            <div class="row col-xs-12 col-sm-12 col-md-12 col-lg-12" align="right">
+                                <a class="btn icon-btn btn-success" href="/Adquirente/Cadastrar"><span class="glyphicon btn-glyphicon glyphicon-plus img-circle text-success"></span>Investir</a>                            </div>
+                            <thead>
+                            <tr>
+                                <th>@Html.DisplayNameFor(m => m.Pacote)</th>
+                                <th>@Html.DisplayNameFor(m => m.User)</th>
+                                <th>@Html.DisplayNameFor(m => m.Qtd)</th>
+                                <th>@Html.DisplayNameFor(m => m.Total)</th>
+                                <th>Editar</th>
+                                <th>Deletar</th>
+
+                            </tr>
+                            </thead>
+                            <tbody>
+                            @{ List<String> PacotesIndisponiveis = (List<String>) @Session["PacotesIndisponiveis"]; }
+                            @if (Model != null)
+                            {
+                                foreach (var Ad in Model)
+                                {
+                                    <tr>
+                                        <td>@Ad.Pacote</td>
+                                        <td>@Ad.User</td>
+                                        <td>@Ad.Qtd</td>
+                                        <td><b>R$:</b> @Ad.Total</td>
+                                        @if (PacotesIndisponiveis.Contains(@Ad.Pacote))
+                                        {
+                                            <td>Produto sem estoque</td>
+                                        }
+                                        else
+                                        {
+                                            <td><a href="/Adquirente/Editar/@Ad.Id">Editar</a></td>
+                                        }
+                                        <td><a href="/Adquirente/Deletar/@Ad.Id">Deletar</a></td>
+
+                                    </tr>
+                                }
+
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="7">Nenhum registro encontrado!</td>
+                                </tr>
+                            }
+
+                            </tbody>
+                        </table>
+                    </div>
+            </div>
+        </div>
+    </div>
+    @if (@Model.Count() > 1)
+    {
+        <div class="row col-xs-12 col-sm-12 col-md-12 col-lg-12"  align="center">
+            <h1>Total de: R$: @TempData["Total"] em investimentos do usuário @Session["Usuario"]</h1>
+        </div>
+    }
+    
+</div>
+
+@section scripts{
+    <script>
+        $(".p").click(function() {
+            console.log("Ok1blir")
+            $("#Filtrador").show();
+            if ($("#NomedoCampo").val() == "Pacote") {
+                console.log("Ok");
+                $("#Filtrador").val("Igual");
+                $("#Filtrador").hide();
+            }
+        });
+        $(document).ready(function() {
+            $("#Filtrador").show();
+            if ($("#NomedoCampo").val() == "Pacote") {
+                console.log("Ok");
+                $("#Filtrador").val("Igual");
+                $("#Filtrador").hide();
+            }
+
+        });
+
+
+    </script>
+
+
+
+}

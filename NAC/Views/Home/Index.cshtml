@@ -1,0 +1,55 @@
+﻿@model IEnumerable<NAC.Models.PacoteModel>
+@{
+  ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron" style="margin-top: 50px;">
+  <div class="row">
+    <div class="col-md-12">
+      <div style="margin-top: 40px;">
+        <div class="row">
+          <div class="col-md-12">
+            <table class="table table-bordered">
+              <h1>Hub de Pacotes</h1>
+              
+              <div class="@TempData["classe"]">
+                @TempData["Status"]
+              </div>
+              <thead>
+              <tr>
+                <th>@Html.DisplayNameFor(m => m.Desc)</th>
+                <th>@Html.DisplayNameFor(m => m.Valor)</th>
+                <th>@Html.DisplayNameFor(m => m.Estoque)</th>
+                        
+              </tr>
+              </thead>
+              <tbody>
+              @if (Model != null)
+              {
+                foreach (var Pacote in Model)
+                {
+                  <tr>
+                    <td>@Pacote.Desc</td>
+                    <td><b>R$:</b> @Pacote.Valor</td>
+                    <td>@Pacote.Estoque</td>
+
+                  </tr>
+                }
+
+              }
+              else
+              {
+                <tr>
+                  <td colspan="7">Nenhum registro encontrado!</td>
+                </tr>
+              }
+
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+

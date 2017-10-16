@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a57ab19-0b0b-4ed6-baf3-5cce06ff0924" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AdquirenteController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Controllers/AdquirenteController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+              <folding>
+                <marker date="1507680443894" expanded="false" signature="6:253" ph="..." />
+                <marker date="1507680443894" expanded="true" signature="280:5380" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="333:5378" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="597:2813" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="649:860" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="1069:1220" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="1121:1206" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="1692:1775" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="1916:2504" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="1988:2083" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="2104:2391" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="2426:2490" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="2522:2653" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="2900:3576" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="2946:3490" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="3076:3243" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="3264:3425" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="3507:3566" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="3652:3760" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="3851:4533" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="3897:4434" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="4026:4190" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="4211:4369" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="4451:4510" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="4606:4840" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="4888:5371" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="5006:5155" ph="{...}" />
+                <marker date="1507680443894" expanded="true" signature="5172:5315" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Views/Login/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <folding>
+                <marker date="1507595985768" expanded="true" signature="52:1369" ph="&lt;div.../&gt;" />
+                <marker date="1507595985768" expanded="true" signature="82:1362" ph="&lt;div.../&gt;" />
+                <marker date="1507595985768" expanded="true" signature="137:217" ph="&lt;div.../&gt;" />
+                <marker date="1507595985768" expanded="true" signature="279:1318" ph="@..." />
+                <marker date="1507595985768" expanded="true" signature="333:1205" ph="{...}" />
+                <marker date="1507595985768" expanded="true" signature="380:1195" ph="{...}" />
+                <marker date="1507595985768" expanded="true" signature="411:742" ph="&lt;div.../&gt;" />
+                <marker date="1507595985768" expanded="true" signature="455:719" ph="&lt;div.../&gt;" />
+                <marker date="1507595985768" expanded="true" signature="759:1082" ph="&lt;div.../&gt;" />
+                <marker date="1507595985768" expanded="true" signature="803:1059" ph="&lt;div.../&gt;" />
+                <marker date="1507595985768" expanded="true" signature="1218:1318" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Models/UserModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <marker date="1507076428254" expanded="true" signature="44:283" ph="{...}" />
+                <marker date="1507076428254" expanded="true" signature="73:281" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cadastrar.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Cadastrar.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="33" />
+              <folding>
+                <marker date="1507220358093" expanded="true" signature="35:2125" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="88:2118" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="120:2107" ph="@..." />
+                <marker date="1507220358093" expanded="true" signature="145:2107" ph="{...}" />
+                <marker date="1507220358093" expanded="true" signature="168:936" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="202:917" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="246:894" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="369:688" ph="&lt;select.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="419:625" ph="@..." />
+                <marker date="1507220358093" expanded="true" signature="460:625" ph="{...}" />
+                <marker date="1507220358093" expanded="true" signature="949:1682" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="983:1301" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="1027:1278" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="1318:1663" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="1362:1640" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="1708:2097" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="1742:2078" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="1786:2055" ph="&lt;div.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="2128:2491" ph="@{...}" />
+                <marker date="1507220358093" expanded="true" signature="2150:2486" ph="&lt;script.../&gt;" />
+                <marker date="1507220358093" expanded="true" signature="2198:2341" ph="{...}" />
+                <marker date="1507220358093" expanded="true" signature="2411:2471" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Controllers/LoginController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+              <folding>
+                <marker date="1507595743480" expanded="false" signature="6:196" ph="..." />
+                <marker date="1507595743480" expanded="true" signature="223:2240" ph="{...}" />
+                <marker date="1507595743480" expanded="true" signature="271:2238" ph="{...}" />
+                <marker date="1507595743480" expanded="true" signature="514:977" ph="{...}" />
+                <marker date="1507595743480" expanded="true" signature="610:723" ph="{...}" />
+                <marker date="1507595743480" expanded="true" signature="740:967" ph="{...}" />
+                <marker date="1507595743480" expanded="true" signature="1028:1109" ph="{...}" />
+                <marker date="1507595743480" expanded="true" signature="1190:2223" ph="{...}" />
+                <marker date="1507595743480" expanded="true" signature="1331:1980" ph="{...}" />
+                <marker date="1507595743480" expanded="true" signature="1997:2200" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PacoteController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Controllers/PacoteController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding>
+                <marker date="1507679416302" expanded="false" signature="6:188" ph="..." />
+                <marker date="1507679416302" expanded="true" signature="215:4085" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="264:4083" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="473:872" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="526:737" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="958:1880" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="1011:1222" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="1259:1794" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="1381:1548" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="1569:1730" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="1811:1870" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="1947:1994" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="2042:2781" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="2095:2306" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="2416:2565" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="2582:2725" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="2854:3333" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="2909:3120" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="3416:4077" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="3462:3989" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="3582:3746" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="3767:3925" ph="{...}" />
+                <marker date="1507679416302" expanded="true" signature="4006:4065" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-251">
+              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+              <folding>
+                <marker date="1507166241440" expanded="true" signature="43:78" ph="@..." />
+                <marker date="1507166241440" expanded="true" signature="80:1410" ph="&lt;div.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="132:1403" ph="&lt;div.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="154:1394" ph="&lt;div.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="184:1383" ph="&lt;div.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="224:1370" ph="&lt;div.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="252:1355" ph="&lt;div.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="288:1338" ph="&lt;table.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="392:482" ph="&lt;div.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="497:772" ph="&lt;thead.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="519:749" ph="&lt;tr.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="787:1317" ph="&lt;tbody.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="809:1293" ph="@..." />
+                <marker date="1507166241440" expanded="true" signature="828:1132" ph="{...}" />
+                <marker date="1507166241440" expanded="true" signature="890:1115" ph="{...}" />
+                <marker date="1507166241440" expanded="true" signature="927:1097" ph="&lt;tr.../&gt;" />
+                <marker date="1507166241440" expanded="true" signature="1151:1293" ph="{...}" />
+                <marker date="1507166241440" expanded="true" signature="1184:1277" ph="&lt;tr.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <marker date="1507221316005" expanded="true" signature="75:5067" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="101:4815" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="133:4804" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="177:4789" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="211:4770" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="259:4743" ph="&lt;table.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="398:944" ph="@..." />
+                <marker date="1507221316005" expanded="true" signature="503:636" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="738:913" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="974:2110" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="1025:2074" ph="@..." />
+                <marker date="1507221316005" expanded="true" signature="1117:2074" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="1188:1942" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="1261:1469" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="1510:1718" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="1759:1899" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="2141:2261" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="2290:2589" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="2618:3129" ph="&lt;thead.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="2654:3092" ph="&lt;tr.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="3158:4710" ph="&lt;tbody.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="3312:4672" ph="@..." />
+                <marker date="1507221316005" expanded="true" signature="3331:4419" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="3419:4388" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="3490:4354" ph="&lt;tr.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="3780:4213" ph="@..." />
+                <marker date="1507221316005" expanded="true" signature="3827:3984" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="4029:4213" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="4452:4672" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="4515:4642" ph="&lt;tr.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="4820:5055" ph="@..." />
+                <marker date="1507221316005" expanded="true" signature="4844:5055" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="4859:5049" ph="&lt;div.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="5069:5706" ph="@{...}" />
+                <marker date="1507221316005" expanded="true" signature="5091:5701" ph="&lt;script.../&gt;" />
+                <marker date="1507221316005" expanded="true" signature="5133:5405" ph="{...}" />
+                <marker date="1507221316005" expanded="true" signature="5445:5683" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Views/Pacote/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PacoteModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/Models/PacoteModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <marker date="1507079511541" expanded="false" signature="6:90" ph="..." />
+                <marker date="1507079511541" expanded="true" signature="112:697" ph="{...}" />
+                <marker date="1507079511541" expanded="true" signature="143:695" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>t</find>
+      <find>timeout</find>
+      <find>timeout=</find>
+      <find>configur</find>
+      <find>Editar</find>
+      <find>http://127.0.0.1:8000/</find>
+      <find>1</find>
+      <find>1.0</find>
+      <find>1.0.</find>
+      <find>s</find>
+      <find>system</find>
+      <find>system.cod</find>
+      <find>system.co</find>
+      <find>system.c</find>
+      <find>codedo</find>
+      <find>codedom</find>
+      <find>c</find>
+      <find>co</find>
+      <find>comp</find>
+      <find>compile</find>
+      <find>compiler</find>
+      <find>compilers</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>https://nac-proxy.herokuapp.com/</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Pacote/Editar.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Controllers/LoginController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Login/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Models/UserModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Cadastrar.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Models/TokenModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Intermediates/Adquirente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Editar.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Serializer/Serializers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Pacote/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC73190B-AB9D-435C-8315-10FF295C572A/1a/1acdab0b/SelectExtensions.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/NAC/Models/TotalModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Content/bootstrap.css.map" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Service/Request.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Global.asax" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Controllers/PacoteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Controllers/AdquirenteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Models/AdquirenteModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Intermediates/Pacote.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Intermediates/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8918DD12-4691-4544-8225-E1B3745EFDAF/0d/00a9079d/HttpSessionStateBase.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/NAC/Views/Pacote/Cadastrar.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Models/PacoteModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAC/Web.config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NAC/Serializer/Serializers.cs" />
+        <option value="$PROJECT_DIR$/NAC/Views/Pacote/index.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Views/Pacote/Index.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Views/Pacote/Editar.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Models/User.cs" />
+        <option value="$PROJECT_DIR$/NAC/Web.config" />
+        <option value="$PROJECT_DIR$/NAC/Models/TokenModel.cs" />
+        <option value="$PROJECT_DIR$/NAC/Models/UserModel.cs" />
+        <option value="$PROJECT_DIR$/NAC/Intermediates/Login.cs" />
+        <option value="$PROJECT_DIR$/NAC/Views/Pacote/Cadastrar.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Models/PacoteModel.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC73190B-AB9D-435C-8315-10FF295C572A/1a/1acdab0b/SelectExtensions.cs" />
+        <option value="$PROJECT_DIR$/NAC/Models/TotalModel.cs" />
+        <option value="$PROJECT_DIR$/NAC/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Models/AdquirenteModel.cs" />
+        <option value="$PROJECT_DIR$/NAC/Views/Adquirente/Cadastrar.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Views/Adquirente/Editar.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Views/Adquirente/Index.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Views/Shared/_Layout.cshtml" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8918DD12-4691-4544-8225-E1B3745EFDAF/0d/00a9079d/HttpSessionStateBase.cs" />
+        <option value="$PROJECT_DIR$/NAC/Controllers/LoginController.cs" />
+        <option value="$PROJECT_DIR$/NAC/Views/Login/Index.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Intermediates/Pacote.cs" />
+        <option value="$PROJECT_DIR$/NAC/Controllers/PacoteController.cs" />
+        <option value="$PROJECT_DIR$/NAC/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/NAC/Intermediates/Adquirente.cs" />
+        <option value="$PROJECT_DIR$/NAC/Service/Request.cs" />
+        <option value="$PROJECT_DIR$/NAC/Controllers/InvestimentoController.cs" />
+        <option value="$PROJECT_DIR$/NAC/Views/Investimento/Index.cshtml" />
+        <option value="$PROJECT_DIR$/NAC/Controllers/AdquirenteController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pacote" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Login" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adquirente" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAC" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NAC/NAC.csproj" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="/usr/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5001" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a57ab19-0b0b-4ed6-baf3-5cce06ff0924" name="Default" comment="" />
+      <created>1506890810763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506890810763</updated>
+      <workItem from="1506890812176" duration="2032000" />
+      <workItem from="1506906623631" duration="10682000" />
+      <workItem from="1506984410983" duration="7068000" />
+      <workItem from="1506993446141" duration="388000" />
+      <workItem from="1507002437916" duration="289000" />
+      <workItem from="1507002927167" duration="3732000" />
+      <workItem from="1507073176117" duration="12773000" />
+      <workItem from="1507159108932" duration="7117000" />
+      <workItem from="1507217170663" duration="4260000" />
+      <workItem from="1507241576547" duration="894000" />
+      <workItem from="1507563201342" duration="1218000" />
+      <workItem from="1507590600255" duration="216000" />
+      <workItem from="1507592537411" duration="3970000" />
+      <workItem from="1507677239299" duration="3727000" />
+      <workItem from="1508192113912" duration="1022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59388000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="742" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30693817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295626" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/NAC/Serializer/Serializers.cs</url>
+          <line>14</line>
+          <properties startOffset="319" endOffset="320" documentPath="$PROJECT_DIR$/NAC/Serializer/Serializers.cs" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NAC/Intermediates/Adquirente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Intermediates/Login.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Intermediates/Pacote.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Models/PacoteModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/PacoteController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="93" column="9" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <marker date="1507221316005" expanded="true" signature="75:5067" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="101:4815" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="133:4804" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="177:4789" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="211:4770" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="259:4743" ph="&lt;table.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="398:944" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="503:636" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="738:913" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="974:2110" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1025:2074" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="1117:2074" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="1188:1942" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1261:1469" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1510:1718" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1759:1899" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2141:2261" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2290:2589" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2618:3129" ph="&lt;thead.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2654:3092" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3158:4710" ph="&lt;tbody.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3312:4672" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="3331:4419" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="3419:4388" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="3490:4354" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3780:4213" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="3827:3984" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4029:4213" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4452:4672" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4515:4642" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="4820:5055" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="4844:5055" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4859:5049" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="5069:5706" ph="@{...}" />
+            <marker date="1507221316005" expanded="true" signature="5091:5701" ph="&lt;script.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="5133:5405" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="5445:5683" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/AdquirenteController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/LoginController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Global.asax">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Global.asax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Serializer/Serializers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1506891410198" expanded="false" signature="6:56" ph="..." />
+            <marker date="1506891410198" expanded="true" signature="83:407" ph="{...}" />
+            <marker date="1506891410198" expanded="true" signature="114:405" ph="{...}" />
+            <marker date="1506891410198" expanded="true" signature="171:254" ph="{...}" />
+            <marker date="1506891410198" expanded="true" signature="310:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Models/PacoteModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Serializer/Serializers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1506891410198" expanded="false" signature="6:56" ph="..." />
+            <marker date="1506891410198" expanded="true" signature="83:407" ph="{...}" />
+            <marker date="1506891410198" expanded="true" signature="114:405" ph="{...}" />
+            <marker date="1506891410198" expanded="true" signature="171:254" ph="{...}" />
+            <marker date="1506891410198" expanded="true" signature="310:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Pacote/index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/NAC/Global.asax">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Global.asax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Models/TokenModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Intermediates/Login.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC73190B-AB9D-435C-8315-10FF295C572A/1a/1acdab0b/SelectExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Models/TotalModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Models/AdquirenteModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Pacote/Editar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Editar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8918DD12-4691-4544-8225-E1B3745EFDAF/0d/00a9079d/HttpSessionStateBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="153" column="7" lean-forward="true" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Pacote/Cadastrar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Intermediates/Pacote.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <marker date="1507679467166" expanded="false" signature="6:217" ph="..." />
+            <marker date="1507679467166" expanded="true" signature="244:565" ph="{...}" />
+            <marker date="1507679467166" expanded="true" signature="291:563" ph="{...}" />
+            <marker date="1507679467166" expanded="true" signature="437:557" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Service/Request.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <marker date="1507679582570" expanded="false" signature="6:123" ph="..." />
+            <marker date="1507679582570" expanded="true" signature="146:2569" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="173:2567" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="427:872" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="514:758" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="788:861" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="1073:1495" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="1551:1878" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="1922:2157" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="2272:2561" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="2330:2426" ph="{...}" />
+            <marker date="1507679582570" expanded="true" signature="2462:2522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Intermediates/Adquirente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="168" column="13" lean-forward="false" selection-start-line="157" selection-start-column="12" selection-end-line="168" selection-end-column="13" />
+          <folding>
+            <marker date="1507679466422" expanded="false" signature="6:197" ph="..." />
+            <marker date="1507679466422" expanded="true" signature="226:6085" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="256:6083" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="581:1130" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="1198:1761" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="1820:2237" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="2377:3838" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="2493:2586" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="2676:2744" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="2851:3044" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="2909:3030" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="3135:3211" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="3249:3321" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="3338:3412" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="3969:4638" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="4155:4238" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="4255:4502" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="4533:4585" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="4716:4874" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="4942:5122" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="5185:5570" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="5374:5525" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="5426:5511" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="5622:6077" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="5845:6034" ph="{...}" />
+            <marker date="1507679466422" expanded="true" signature="5925:6018" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Cadastrar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="33" />
+          <folding>
+            <marker date="1507220358093" expanded="true" signature="35:2125" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="88:2118" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="120:2107" ph="@..." />
+            <marker date="1507220358093" expanded="true" signature="145:2107" ph="{...}" />
+            <marker date="1507220358093" expanded="true" signature="168:936" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="202:917" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="246:894" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="369:688" ph="&lt;select.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="419:625" ph="@..." />
+            <marker date="1507220358093" expanded="true" signature="460:625" ph="{...}" />
+            <marker date="1507220358093" expanded="true" signature="949:1682" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="983:1301" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="1027:1278" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="1318:1663" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="1362:1640" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="1708:2097" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="1742:2078" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="1786:2055" ph="&lt;div.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="2128:2491" ph="@{...}" />
+            <marker date="1507220358093" expanded="true" signature="2150:2486" ph="&lt;script.../&gt;" />
+            <marker date="1507220358093" expanded="true" signature="2198:2341" ph="{...}" />
+            <marker date="1507220358093" expanded="true" signature="2411:2471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1507221316005" expanded="true" signature="75:5067" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="101:4815" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="133:4804" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="177:4789" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="211:4770" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="259:4743" ph="&lt;table.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="398:944" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="503:636" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="738:913" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="974:2110" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1025:2074" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="1117:2074" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="1188:1942" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1261:1469" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1510:1718" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1759:1899" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2141:2261" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2290:2589" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2618:3129" ph="&lt;thead.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2654:3092" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3158:4710" ph="&lt;tbody.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3312:4672" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="3331:4419" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="3419:4388" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="3490:4354" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3780:4213" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="3827:3984" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4029:4213" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4452:4672" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4515:4642" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="4820:5055" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="4844:5055" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4859:5049" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="5069:5706" ph="@{...}" />
+            <marker date="1507221316005" expanded="true" signature="5091:5701" ph="&lt;script.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="5133:5405" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="5445:5683" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/InvestimentoController.cs" />
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/AdquirenteController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <marker date="1507680443894" expanded="false" signature="6:253" ph="..." />
+            <marker date="1507680443894" expanded="true" signature="280:5380" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="333:5378" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="597:2813" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="649:860" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="1069:1220" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="1121:1206" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="1692:1775" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="1916:2504" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="1988:2083" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="2104:2391" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="2426:2490" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="2522:2653" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="2900:3576" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="2946:3490" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="3076:3243" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="3264:3425" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="3507:3566" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="3652:3760" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="3851:4533" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="3897:4434" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="4026:4190" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="4211:4369" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="4451:4510" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="4606:4840" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="4888:5371" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="5006:5155" ph="{...}" />
+            <marker date="1507680443894" expanded="true" signature="5172:5315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Models/UserModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1507076428254" expanded="true" signature="44:283" ph="{...}" />
+            <marker date="1507076428254" expanded="true" signature="73:281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/LoginController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <marker date="1507595743480" expanded="false" signature="6:196" ph="..." />
+            <marker date="1507595743480" expanded="true" signature="223:2240" ph="{...}" />
+            <marker date="1507595743480" expanded="true" signature="271:2238" ph="{...}" />
+            <marker date="1507595743480" expanded="true" signature="514:977" ph="{...}" />
+            <marker date="1507595743480" expanded="true" signature="610:723" ph="{...}" />
+            <marker date="1507595743480" expanded="true" signature="740:967" ph="{...}" />
+            <marker date="1507595743480" expanded="true" signature="1028:1109" ph="{...}" />
+            <marker date="1507595743480" expanded="true" signature="1190:2223" ph="{...}" />
+            <marker date="1507595743480" expanded="true" signature="1331:1980" ph="{...}" />
+            <marker date="1507595743480" expanded="true" signature="1997:2200" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Login/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding>
+            <marker date="1507595985768" expanded="true" signature="52:1369" ph="&lt;div.../&gt;" />
+            <marker date="1507595985768" expanded="true" signature="82:1362" ph="&lt;div.../&gt;" />
+            <marker date="1507595985768" expanded="true" signature="137:217" ph="&lt;div.../&gt;" />
+            <marker date="1507595985768" expanded="true" signature="279:1318" ph="@..." />
+            <marker date="1507595985768" expanded="true" signature="333:1205" ph="{...}" />
+            <marker date="1507595985768" expanded="true" signature="380:1195" ph="{...}" />
+            <marker date="1507595985768" expanded="true" signature="411:742" ph="&lt;div.../&gt;" />
+            <marker date="1507595985768" expanded="true" signature="455:719" ph="&lt;div.../&gt;" />
+            <marker date="1507595985768" expanded="true" signature="759:1082" ph="&lt;div.../&gt;" />
+            <marker date="1507595985768" expanded="true" signature="803:1059" ph="&lt;div.../&gt;" />
+            <marker date="1507595985768" expanded="true" signature="1218:1318" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Models/PacoteModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1507079511541" expanded="false" signature="6:90" ph="..." />
+            <marker date="1507079511541" expanded="true" signature="112:697" ph="{...}" />
+            <marker date="1507079511541" expanded="true" signature="143:695" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Controllers/PacoteController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <marker date="1507679416302" expanded="false" signature="6:188" ph="..." />
+            <marker date="1507679416302" expanded="true" signature="215:4085" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="264:4083" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="473:872" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="526:737" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="958:1880" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="1011:1222" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="1259:1794" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="1381:1548" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="1569:1730" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="1811:1870" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="1947:1994" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="2042:2781" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="2095:2306" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="2416:2565" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="2582:2725" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="2854:3333" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="2909:3120" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="3416:4077" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="3462:3989" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="3582:3746" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="3767:3925" ph="{...}" />
+            <marker date="1507679416302" expanded="true" signature="4006:4065" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <marker date="1507166241440" expanded="true" signature="43:78" ph="@..." />
+            <marker date="1507166241440" expanded="true" signature="80:1410" ph="&lt;div.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="132:1403" ph="&lt;div.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="154:1394" ph="&lt;div.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="184:1383" ph="&lt;div.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="224:1370" ph="&lt;div.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="252:1355" ph="&lt;div.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="288:1338" ph="&lt;table.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="392:482" ph="&lt;div.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="497:772" ph="&lt;thead.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="519:749" ph="&lt;tr.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="787:1317" ph="&lt;tbody.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="809:1293" ph="@..." />
+            <marker date="1507166241440" expanded="true" signature="828:1132" ph="{...}" />
+            <marker date="1507166241440" expanded="true" signature="890:1115" ph="{...}" />
+            <marker date="1507166241440" expanded="true" signature="927:1097" ph="&lt;tr.../&gt;" />
+            <marker date="1507166241440" expanded="true" signature="1151:1293" ph="{...}" />
+            <marker date="1507166241440" expanded="true" signature="1184:1277" ph="&lt;tr.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Pacote/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Views/Adquirente/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <marker date="1507221316005" expanded="true" signature="75:5067" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="101:4815" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="133:4804" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="177:4789" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="211:4770" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="259:4743" ph="&lt;table.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="398:944" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="503:636" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="738:913" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="974:2110" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1025:2074" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="1117:2074" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="1188:1942" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1261:1469" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1510:1718" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="1759:1899" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2141:2261" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2290:2589" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2618:3129" ph="&lt;thead.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="2654:3092" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3158:4710" ph="&lt;tbody.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3312:4672" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="3331:4419" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="3419:4388" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="3490:4354" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="3780:4213" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="3827:3984" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4029:4213" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4452:4672" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4515:4642" ph="&lt;tr.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="4820:5055" ph="@..." />
+            <marker date="1507221316005" expanded="true" signature="4844:5055" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="4859:5049" ph="&lt;div.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="5069:5706" ph="@{...}" />
+            <marker date="1507221316005" expanded="true" signature="5091:5701" ph="&lt;script.../&gt;" />
+            <marker date="1507221316005" expanded="true" signature="5133:5405" ph="{...}" />
+            <marker date="1507221316005" expanded="true" signature="5445:5683" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
